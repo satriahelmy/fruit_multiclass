@@ -1,2 +1,2 @@
-# cat_vs_dog
+# Fruit Multiclass Classification
 Binnary Classification
